@@ -16,6 +16,6 @@ morph.class:  "gray", "melanic", or "other". Each row represents the observation
 
 ### squirrelObservationMaps
 
-Maps of a thinned set of eastern gray squirrel observations form squirrelMapperObservations.csv to 43 cities in the native range of S. carolinensis in North America and a minimum of 10 m separating each observation.
+Maps of a thinned set of eastern gray squirrel observations from squirrelMapperObservations.csv to 43 cities in the native range of S. carolinensis in North America and a minimum of 10 m separating each observation.
 
 Please contact Bradley Cosentino (cosentino@hws.edu) with questions.
