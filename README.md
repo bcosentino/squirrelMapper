@@ -1,4 +1,4 @@
-All observations through December 21, 2021 of eastern gray squirrels (Sciurus carolinensis) contributed to SquirrelMapper (http://squirrelmapper.org/) and classified to color morph via Zooniverse by at least 10 people. The file includes six variables:
+Dataset includes 60,262 observations through December 21, 2021 of eastern gray squirrels (Sciurus carolinensis) contributed to SquirrelMapper (http://squirrelmapper.org/) and classified to color morph via Zooniverse by at least 10 people. The file includes six variables:
 
 database: "original squirrelMapper" (observations contributed without photographs until 2019) and "iNaturalist" (observations contributed to the SquirrelMapper project via iNaturalist with photographs and classified as reserach grade.
 
