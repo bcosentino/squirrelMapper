@@ -10,7 +10,7 @@ database: "original squirrelMapper" (observations contributed without photograph
 
 inat.id:  iNaturalist identification code for all iNaturalist observations.
 
-date:  date of observation
+year:  year of observation
 
 latitude:  latitude of observation
 
